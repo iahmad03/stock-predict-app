@@ -1,1 +1,2 @@
-# stock-predict-app
+# Stock Predict App
+does not work yet :(
